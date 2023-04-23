@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: cf641ff357cfe394ba8fb29ed7dd1bb7
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: de65472a060d999498e083e29a8e000f
+  - enabled: 1
+    path: Assets/Scenes/BEIScene.unity
+    guid: 17eec69d804a14543bc929a0ace21ef0
+  - enabled: 1
+    path: Assets/Scenes/CharapickScene.unity
+    guid: aa427468bdc2aee40a20d373c142ceac
+  - enabled: 1
+    path: Assets/Scenes/PhillipScene.unity
+    guid: 5f3b72f82c717244381bb13df4695bae
+  - enabled: 1
+    path: Assets/Scenes/GaleriUMNScene.unity
+    guid: aade8fe747831904bbc4bb40ca27e512
+  - enabled: 1
+    path: Assets/Scenes/RumahScene.unity
+    guid: ed85b086c60ec824f9fc163a26a68786
+  - enabled: 1
+    path: Assets/Scenes/FramePanel/IntroductionFrame.unity
+    guid: 42cf869f29a5bf34c85702a3508ac634
+  - enabled: 1
+    path: Assets/Scenes/FramePanel/Stage1Frame.unity
+    guid: 69d631dc556a429458b55ef58b567e61
+  - enabled: 1
+    path: Assets/Scenes/Stage3Scene.unity
+    guid: 34ef25bfed601b644b6443c7444221d3
+  - enabled: 1
+    path: Assets/Scenes/FramePanel/Stage2Frame.unity
+    guid: 2389e1a5939defd459badcd7c979e45c
+  - enabled: 1
+    path: Assets/Scenes/Stage2Scene.unity
+    guid: e222b225a40a4a94797ce25bf1ad9c67
+  m_configObjects: {}
